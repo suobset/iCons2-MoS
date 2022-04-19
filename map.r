@@ -14,4 +14,4 @@ root1 <- here("data", "mbta_rapid_transit", "MBTA_ARC.shp") %>%
 # Leaflet function from leaflet package which makes a leaflet map
 leaflet() %>%
   addTiles() %>%
-  addPolylines(data = root1, label = root1$score)
+  addPolygons(data = root1, label = root1$score)
