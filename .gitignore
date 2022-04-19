@@ -348,6 +348,8 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# R files and macOS optimizations
 .DS_Store
 .Rproj.user
 .Rhistory
