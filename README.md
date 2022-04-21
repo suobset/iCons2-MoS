@@ -6,3 +6,6 @@ Initial Plan is to just use this repository for the QGIS stuff, and the regular 
 
 <a href="https://github.com/suobset/iCons">Here is that repository</a>
 
+Introducing Voronoi Diagrams:
+http://cfbrasz.github.io/Voronoi.html
+
