@@ -15,6 +15,12 @@ Added some Jargon R as well.
 
 Source: https://www.r-bloggers.com/2021/10/little-useless-useful-r-functions-interactive-voronoi-diagram-generator-using-r-and-x11/
 
+Additional GIS Resources:
+
+BostonGIS: https://www.bostongis.com/?content_name=massgis_data
+
+Shapefile manipulation: https://stat.ethz.ch/pipermail/r-sig-geo/2008-September/004247.html
+
 Reminder: Make this into actual documentation
 
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/Screenshot%202022-04-26%20121103.png"></img>
