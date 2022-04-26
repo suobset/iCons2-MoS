@@ -2,6 +2,8 @@
 
 QGIS Stuff for Blobs
 
+<img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/IMG_7096.jpg"></img>
+
 Initial Plan is to just use this repository for the QGIS stuff, and the regular "iCons" repository under my profile for the webpage (coz GitHub Pages).
 
 <a href="https://github.com/suobset/iCons">Here is that repository</a>
