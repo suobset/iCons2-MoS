@@ -21,7 +21,7 @@ click <- function(DefaultGraph=voronoiGraphBoard(), steps=st){
     mouse.at <- locator(n = 1, type = "o")
     xl <- mouse.at$x
     yl <- mouse.at$y
-    distance <- sqrt((xl-100)^2 + (yl-100)^2)
+    distance <- sqrt((xl-100)^2 + (yl-100)^2)9
     df <- data.frame(xl,yl, distance)
     dff <<- rbind(dff, df)
     if (nrow(dff)>=2){
