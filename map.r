@@ -23,4 +23,4 @@ pal <- colorFactor(palette = c('navy', 'red'),
 leaflet() %>%
   addTiles() %>%
   addPolylines(data = root1, label = root1$score) %>%
-  addPolylines(data = root2, color="#00FF00", opacity=0.5)
+  addPolylines(data = root2, color="#FF0000", opacity=0.25)
