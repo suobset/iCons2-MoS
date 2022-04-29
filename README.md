@@ -28,3 +28,9 @@ Reminder: Make this into actual documentation
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/Screenshot%202022-04-26%20121103.png"></img>
 
 First Voronoi Diagram
+
+<hr>
+
+<img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/VoronoiFUll.png"></img>
+
+Voronoi overlap on Boston's Map
