@@ -39,4 +39,6 @@ Voronoi overlap on Boston's Map
 
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/BlobArea.png"></img>
 
+Calculated Areas of Each Blob
+
 <hr>
