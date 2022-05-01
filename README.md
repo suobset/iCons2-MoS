@@ -34,3 +34,9 @@ First Voronoi Diagram
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/VoronoiFUll.png"></img>
 
 Voronoi overlap on Boston's Map
+
+<hr>
+
+<img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/BlobArea.png"></img>
+
+<hr>
