@@ -1,0 +1,165 @@
+STATION,LINE,TERMINUS,ROUTE,BlobArea,BlobScore
+Braintree,RED,Y,B - Braintree  C - Alewife,7217027.237,88.5231095
+Capen Street,RED,N,Mattapan Trolley,6907794.801,89.01685207
+Quincy Adams,RED,N,B - Braintree  C - Alewife,16116093.37,74.3142255
+Valley Road,RED,N,Mattapan Trolley,4940175.62,92.15849326
+Milton,RED,N,Mattapan Trolley,5568896.084,91.1546333
+Wollaston,RED,N,B - Braintree  C - Alewife,9256453.308,85.2668163
+Butler,RED,N,Mattapan Trolley,2991148.005,95.27044982
+Cedar Grove,RED,N,Mattapan Trolley,1910687.666,96.9955899
+North Quincy,RED,N,B - Braintree  C - Alewife,12462156.77,80.14836141
+Central Avenue,RED,N,Mattapan Trolley,1740465.234,97.26737918
+Ashmont,RED,Y,A - Ashmont  C - Alewife,2275785.18,96.41264915
+Shawmut,RED,N,A - Ashmont  C - Alewife,3912562.341,93.79925394
+Mattapan,RED,Y,Mattapan Trolley,62659312.92,0
+Fields Corner,RED,N,A - Ashmont  C - Alewife,4345479.542,93.10802745
+Forest Hills,ORANGE,Y,Forest Hills to Oak Grove,22257367.64,64.50862878
+Green Street,ORANGE,N,Forest Hills to Oak Grove,3721489.092,94.10433513
+Eliot,GREEN,N,D - Riverside,54703287.44,12.703158
+Newton Highlands,GREEN,N,D - Riverside,9723748.27,84.52069982
+Stony Brook,ORANGE,N,Forest Hills to Oak Grove,2188647.144,96.55177996
+Jackson Square,ORANGE,N,Forest Hills to Oak Grove,1587779.316,97.51116841
+Chestnut Hill,GREEN,N,D - Riverside,12856585.17,79.51858888
+Nubian,SILVER,Y,SL4 SL5,2498150.493,96.05760483
+Savin Hill,RED,N,A - Ashmont  C - Alewife,7595587.726,87.91867281
+Brookline Hills,GREEN,N,D - Riverside,3323671.578,94.73951896
+Heath Street,GREEN,Y,E - Health Street,1036659.055,98.39112635
+Brookline Village,GREEN,N,D - Riverside,692239.37,98.94105139
+Back Of The Hill,GREEN,N,E - Health Street,174570.957,99.76759772
+Riverway,GREEN,N,E - Health Street,130155.177,99.83851512
+Mission Park,GREEN,N,E - Health Street,251948.051,99.64405193
+Fenwood Road,GREEN,N,E - Health Street,249491.563,99.64797413
+Roxbury Crossing,ORANGE,N,Forest Hills to Oak Grove,735099.526,98.87261781
+JFK/UMass,RED,N,A - Ashmont  B - Braintree  C - Alewife,5209100.162,91.72910914
+Reservoir,GREEN,N,D - Riverside,1285406.692,97.99395812
+Brigham Circle,GREEN,N,E - Health Street,251352.767,99.6450024
+Andrew,RED,N,A - Ashmont  B - Braintree  C - Alewife,2771993.547,95.62036747
+Beaconsfield,GREEN,N,D - Riverside,970885.605,98.49614493
+Melnea Cass Blvd,SILVER,N,SL4 SL5,308190.536,99.55425116
+Ruggles,ORANGE,N,Forest Hills to Oak Grove,391087.438,99.42189206
+Massachusetts Ave,SILVER,N,SL4 SL5,152457.552,99.80290556
+Massachusetts Ave,SILVER,N,SL4 SL5,72896.894,99.92993778
+Englewood Avenue,GREEN,N,C - Cleveland Circle,158138.318,99.79383524
+Worcester Square,SILVER,N,SL4 SL5,83983.82,99.91223561
+Melnea Cass Blvd,SILVER,N,SL4 SL5,219107.853,99.69648693
+Lenox St,SILVER,N,SL4 SL5,198984.749,99.72861692
+Longwood Medical Area,GREEN,N,E - Health Street,348566.361,99.48978424
+Museum Of Fine Arts,GREEN,N,E - Health Street,399216.835,99.40891208
+Cleveland Circle,GREEN,Y,C - Cleveland Circle,201087.481,99.72525954
+Dean Road,GREEN,N,C - Cleveland Circle,132083.762,99.83543581
+Tappan Street,GREEN,N,C - Cleveland Circle,168005.426,99.77808071
+South Street,GREEN,N,B - Boston College,1061464.664,98.35151994
+Washington Square,GREEN,N,C - Cleveland Circle,298558.76,99.56962995
+Worcester Square,SILVER,N,SL4 SL5,177001.378,99.76371714
+Fairbanks Street,GREEN,N,C - Cleveland Circle,292710.412,99.57896784
+Lenox St,SILVER,N,SL4 SL5,124114.865,99.84815952
+Newton Street,SILVER,N,SL4 SL5,207020.329,99.71578674
+Chestnut Hill Avenue,GREEN,N,B - Boston College,211023.767,99.70939456
+Brandon Hall,GREEN,N,C - Cleveland Circle,248848.706,99.64900056
+Newton Street,SILVER,N,SL4 SL5,121594.778,99.85218327
+Chiswick Road,GREEN,N,B - Boston College,640982.158,99.02289231
+Summit Ave/Winchester St,GREEN,N,C - Cleveland Circle,372957.916,99.45083894
+Northeastern,GREEN,N,E - Health Street,334295.033,99.51257086
+Massachusetts Ave,ORANGE,N,Forest Hills to Oak Grove,291090.725,99.58155394
+Sutherland Road,GREEN,N,B - Boston College,299515.497,99.56810235
+Union Park Street,SILVER,N,SL4 SL5,256224.289,99.63722418
+Longwood,GREEN,N,D - Riverside,464750.265,99.30427673
+Coolidge Corner,GREEN,N,C - Cleveland Circle,416695.059,99.3810051
+Newton Centre,GREEN,N,D - Riverside,10415858.38,83.41562744
+Boston College,GREEN,Y,B - Boston College,12737222.49,79.70917185
+Saint Paul Street,GREEN,N,C - Cleveland Circle,308201.051,99.55423438
+Union Park Street,SILVER,N,SL4 SL5,383663.752,99.43374524
+Washington Street,GREEN,N,B - Boston College,458461.065,99.31431852
+Broadway,RED,N,A - Ashmont  B - Braintree  C - Alewife,1388701.988,97.82902948
+Kent Street,GREEN,N,C - Cleveland Circle,176676.355,99.76423609
+Design Center,SILVER,N,SL2,1298204.415,97.97352436
+88 Black Falcon Ave,SILVER,N,SL2,11409395.68,81.82927489
+23 Dry Dock Ave,SILVER,N,SL2,185986.004,99.74937164
+Black Falcon Ave,SILVER,N,SL2,90320.555,99.90211792
+East Berkeley Street,SILVER,N,SL4 SL5,189431.767,99.74386989
+Symphony,GREEN,N,E - Health Street,203362.578,99.72162696
+Fenway,GREEN,N,D - Riverside,399327.609,99.40873521
+Hawes Street,GREEN,N,C - Cleveland Circle,170910.164,99.7734428
+Saint Marys Street,GREEN,N,C - Cleveland Circle,143975.229,99.81644904
+Prudential,GREEN,N,E - Health Street,325647.027,99.52637889
+East Berkeley Street,SILVER,N,SL4 SL5,88772.73,99.90458929
+Tide St,SILVER,N,SL2,134017.249,99.83234866
+Harbor St,SILVER,N,SL2,129604.372,99.83939458
+Silver Line Way,SILVER,N,SL1 SL2,258522.387,99.63355488
+Back Bay,ORANGE,N,Forest Hills to Oak Grove,350799.023,99.48621941
+Allston Street,GREEN,N,B - Boston College,281091.989,99.59751864
+Hynes Convention Center,GREEN,N,B C D,676840.927,98.96563764
+Griggs Street,GREEN,N,B - Boston College,321353.136,99.53323482
+Kenmore,GREEN,N,B C D,784195.407,98.79422782
+Herald Street,SILVER,N,SL4 SL5,101199.558,99.88474773
+Quincy Center,RED,N,B - Braintree  C - Alewife,6224609.074,90.10767515
+Boston University East,GREEN,N,B - Boston College,326563.156,99.52491613
+Blandford Street,GREEN,N,B - Boston College,443346.515,99.33845148
+Tufts Medical Center,ORANGE,N,Forest Hills to Oak Grove,118270.94,99.85749034
+Tuffs Medical Center,SILVER,N,SL4 SL5,121074.609,99.85301381
+Herald Street,SILVER,N,SL4 SL5,167630.63,99.77867914
+Boston University Central,GREEN,N,B - Boston College,473878.641,99.28970171
+Amory Street,GREEN,N,B - Boston College,712542.921,98.90863329
+Babcock Street,GREEN,N,B - Boston College,803337.816,98.76366369
+Harvard Avenue,GREEN,N,B - Boston College,1183134.788,98.15725274
+Packards Corner,GREEN,N,B - Boston College,1185728.287,98.15311177
+27 Dry Dock Ave,SILVER,N,SL2,508056.164,99.23513144
+Arlington,GREEN,N,B C D E,498730.588,99.25002132
+Tuffs Medical Center,SILVER,N,SL4 SL5,39675.923,99.98298076
+Copley,GREEN,N,B C D E,608491.592,99.07476907
+Chinatown,SILVER,N,SL4 SL5,77573.642,99.92247055
+World Trade Center,SILVER,N,SL1 SL2,729257.645,98.88194537
+South Station Essex St,SILVER,N,SL4,330735.026,99.51825502
+Courthouse,SILVER,N,SL1 SL2,952256.147,98.52589005
+Boylston,GREEN,N,B C D E,121072.724,99.85301682
+Northern Ave,SILVER,N,SL2,736887.431,98.86976311
+Chinatown,ORANGE,N,Forest Hills to Oak Grove,29016.72,100
+South Station,RED,N,A - Ashmont  B - Braintree  C - Alewife,189659.38,99.74350647
+Boylston,SILVER,N,SL5,86876.129,99.90761754
+Downtown Crossing,SILVER,N,SL5,61689.113,99.94783293
+Downtown Crossing,ORANGE/RED,N,ORANGE Forest Hills to Oak Grove / RED A - Ashmont  B - Braintree  C - Alewife,98041.496,99.88979012
+South Station,SILVER,N,SL1 SL2,82418.514,99.91473489
+Park Street,GREEN/RED,N,GREEN B C D E / RED A - Ashmont  B - Braintree  C - Alewife,197607.937,99.73081523
+Warren Street,GREEN,N,B - Boston College,4605406.229,92.69300995
+State,BLUE/ORANGE,N,BLUE Bowdoin to Wonderland / ORANGE Forest Hills to Oak Grove,162726.658,99.78650917
+Government Center,BLUE/GREEN,N,BLUE Bowdoin to Wonderland / GREEN B C D E,88134.409,99.90560848
+Aquarium,BLUE,N,Bowdoin to Wonderland,897865.058,98.61273475
+Waban,GREEN,N,D - Riverside,7467732.875,88.12281499
+Charles/MGH,RED,N,A - Ashmont  B - Braintree  C - Alewife,886496.023,98.63088736
+Airport Terminal B1,SILVER,N,SL1,3978433.196,93.69407984
+Kendall/MIT,RED,N,A - Ashmont  B - Braintree  C - Alewife,1967859.977,96.90430451
+Bowdoin,BLUE,Y,Bowdoin to Wonderland,256328.481,99.63705782
+Haymarket,GREEN/ORANGE,N,GREEN D E / ORANGE Forest Hills to Oak Grove,308069.579,99.55444429
+Central,RED,N,A - Ashmont  B - Braintree  C - Alewife,3339488.312,94.71426483
+Airport Terminal B2,SILVER,N,SL1,709097.698,98.91413418
+Airport Terminal A,SILVER,N,SL1,767153.149,98.82143871
+Science Park/West End,GREEN,N,E - Lechmere,609290.065,99.07349417
+North Station,GREEN/ORANGE,N,GREEN D E / ORANGE Forest Hills to Oak Grove,1046208.163,98.37587956
+Maverick,BLUE,N,Bowdoin to Wonderland,2834032.886,95.52131103
+Airport Terminal C,SILVER,N,SL1,2144483.902,96.62229414
+Lechmere,GREEN,Y,E - Lechmere,1632428.364,97.43987856
+Harvard,RED,N,A - Ashmont  B - Braintree  C - Alewife,5713461.189,90.92381034
+Airport Terminal E,SILVER,Y,SL1,763991.347,98.82648707
+Airport,SILVER,N,SL3,455719.415,99.31869603
+Woodland,GREEN,N,D - Riverside,6528423.839,89.62258282
+Community College,ORANGE,N,Forest Hills to Oak Grove,2075607.111,96.73226774
+Airport,BLUE,N,Bowdoin to Wonderland,1185633.229,98.15326355
+Wood Island,BLUE,N,Bowdoin to Wonderland,1488246.228,97.67009004
+Sullivan Square,ORANGE,N,Forest Hills to Oak Grove,3248380.642,94.85973384
+Orient Heights,BLUE,N,Bowdoin to Wonderland,3177717.862,94.97255908
+Eastern Ave,SILVER,N,SL3,1625276.33,97.451298
+Suffolk Downs,BLUE,N,Bowdoin to Wonderland,1249052.113,98.05200443
+Bellingham Sq,SILVER,N,SL3,2232940.281,96.48105838
+Alewife,RED,Y,A - Ashmont  B - Braintree  C - Alewife,57358465.59,8.463711098
+Porter,RED,N,A - Ashmont  B - Braintree  C - Alewife,4045693.425,93.58668736
+Chelsea,SILVER,Y,SL3,7721350.351,87.71787123
+Assembly,ORANGE,N,Forest Hills to Oak Grove,3208612.59,94.92323035
+Box District,SILVER,N,SL3,2524522.471,96.01549745
+Davis,RED,N,A - Ashmont  B - Braintree  C - Alewife,10174820.9,83.80048508
+Wellington,ORANGE,N,Forest Hills to Oak Grove,6972439.35,88.91363597
+Beachmont,BLUE,N,Bowdoin to Wonderland,1102309.253,98.28630456
+Riverside,GREEN,Y,D - Riverside,18509245.42,70.49314817
+Revere Beach,BLUE,N,Bowdoin to Wonderland,1926340.023,96.97059823
+Wonderland,BLUE,Y,Bowdoin to Wonderland,7923952.544,87.39438211
+Malden Center,ORANGE,N,Forest Hills to Oak Grove,12144720.15,80.65520337
+Oak Grove,ORANGE,Y,Forest Hills to Oak Grove,4505649.785,92.85228821
