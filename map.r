@@ -2,6 +2,7 @@ library(leaflet)
 library(tidyverse)
 library(sf)
 library(here)
+library(censusviz)
 
 set.seed(69)
 randomNumbers <- sample.int(100, 138, replace = TRUE)
@@ -23,4 +24,6 @@ pal <- colorFactor(palette = c('navy', 'red'),
 leaflet() %>%
   addTiles() %>%
   addPolylines(data = root1, label = root1$score) %>%
-  addPolylines(data = root2, color="#FF0000", opacity=0.25)
+  addPolylines(data = root2, color="#FFA500", opacity=1) %>%
+  add_people(2018, boston_sample)
+
