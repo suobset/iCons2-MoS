@@ -4,7 +4,7 @@
 
 ### Final Website: https://suobset.github.io/iCons/iCons2-MoS/index.html
 
-### Final Website Repository (code for website): https://github.com/suobset/iCons/iCons2-MoS
+### Final Website Repository (code for website): https://github.com/suobset/iCons/tree/main/iCons2-MoS
 
 ### Team Members
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/IMG_7096.jpg"></img>
