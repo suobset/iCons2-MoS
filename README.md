@@ -50,6 +50,8 @@ where zi is the i-th normalized value in the dataset, xi is the i-th value in th
 #### Calculated Areas of Each Blob
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/BlobArea.png"></img>
 
+#### BlobScore Implementation and Import in R + Display on Map using Hover
+<img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/BlobScore.png"></img>
 
 ### Referenced Sources
 
