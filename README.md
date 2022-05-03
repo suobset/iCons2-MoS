@@ -3,10 +3,6 @@
 ## Mapping Transportation Accessibility in Boston
 
 
-### Semester
-
-Spring 2022
-
 ### Team Members
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/IMG_7096.jpg"></img>
 
