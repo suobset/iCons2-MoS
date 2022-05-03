@@ -7,12 +7,12 @@ library(here)
 set.seed(69)
 randomNumbers <- sample.int(100, 138, replace = TRUE)
 
-root1 <- here("Documents", "GitHub", "iCons2-MoS", "data", "mbta_rapid_transit", "MBTA_ARC.shp") %>%
+root1 <- here("data", "mbta_rapid_transit", "MBTA_ARC.shp") %>%
   st_read() %>%
   st_transform(4326) %>% # Weird coordinate system: dont question
   mutate(score = randomNumbers)
 
-root2 <- here("Documents", "GitHub", "iCons2-MoS", "data", "Voronoi", "Voronoi.shp") %>%
+root2 <- here("data", "Voronoi", "Voronoi.shp") %>%
   st_read() %>%
   st_transform(4326)
 
@@ -24,6 +24,6 @@ pal <- colorFactor(palette = c('navy', 'red'),
 leaflet() %>%
   addTiles() %>%
   addPolylines(data = root1, label = root1$score) %>%
-  addPolylines(data = root2, color="#FF0000", opacity=0.25) #%>%
+  addPolylines(data = root2, color="#FF0000", opacity=0.25, label = root2$BlobArea) #%>%
   #add_people(2018, boston_sample)
 
