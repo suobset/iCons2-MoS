@@ -16,6 +16,14 @@ root2 <- here("data", "Voronoi", "Voronoi.shp") %>%
   st_read() %>%
   st_transform(4326)
 
+root3 <- here("data", "Voronoi", "VoronoiDataCSV.csv") %>%
+  read.csv()
+
+# This is janky, fix later, it connects root2 blobArea data with root3 CSV file
+# CSV derived from Excel, thanks Gabby and Jack
+theUnionOfMyDreams <- root2 %>%
+  left_join(root3, by = "STATION")
+
 # Voronoi Color palette
 pal <- colorFactor(palette = c('navy', 'red'),
                    levels = levels(df$group))
@@ -24,6 +32,6 @@ pal <- colorFactor(palette = c('navy', 'red'),
 leaflet() %>%
   addTiles() %>%
   addPolylines(data = root1, label = root1$score) %>%
-  addPolylines(data = root2, color="#FF0000", opacity=0.25, label = root2$BlobArea) #%>%
+  addPolygons(data = root2, color="#FF0000", opacity=0.25, fillOpacity = 0, label = theUnionOfMyDreams$BlobScore) #%>%
   #add_people(2018, boston_sample)
 
