@@ -32,6 +32,6 @@ pal <- colorFactor(palette = c('navy', 'red'),
 leaflet() %>%
   addTiles() %>%
   addPolylines(data = root1, label = root1$score) %>%
-  addPolygons(data = root2, color="#FF0000", opacity=0.25, fillOpacity = 0, label = theUnionOfMyDreams$BlobScore) #%>%
+  addPolygons(data = root2, color="#FF0000", opacity=0.25, fillOpacity = 0, label = root3$BlobScore) #%>%
   #add_people(2018, boston_sample)
 
