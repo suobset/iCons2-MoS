@@ -2,6 +2,9 @@
 
 ## Mapping Transportation Accessibility in Boston
 
+### Final Website: https://suobset.github.io/iCons/iCons2-MoS/index.html
+
+### Final Website Repository (code for website): https://github.com/suobset/iCons/tree/main/iCons2-MoS
 
 ### Team Members
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/IMG_7096.jpg"></img>
@@ -50,6 +53,8 @@ where zi is the i-th normalized value in the dataset, xi is the i-th value in th
 #### Calculated Areas of Each Blob
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/BlobArea.png"></img>
 
+#### BlobScore Implementation and Import in R + Display on Map using Hover
+<img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/BlobScore.png"></img>
 
 ### Referenced Sources
 
