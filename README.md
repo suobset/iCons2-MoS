@@ -10,7 +10,7 @@
 
 Other iCons Projects done by me: https://suobset.github.io/iCons
 
-Future Improvement 1: Add census data to see trends: https://suobset.github.io/iCons/iCons2-MoS/demographic.html
+Future Improvement 1: Add census data to see trends using <a href="https://github.com/rporta23/censusviz">Censusviz</a>: https://suobset.github.io/iCons/iCons2-MoS/demographic.html
 
 ### Team Members
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/IMG_7096.jpg"></img>
