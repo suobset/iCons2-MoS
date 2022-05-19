@@ -74,4 +74,7 @@ Added some Jargon R as well.
 1. Analyze Boston: https://data.boston.gov/
 1. Map Inspiration (my iCons 1 Website): https://suobset.github.io/iCons/iCons1-CS2/hydroCost.html
 2. Normalization of Data: https://www.statology.org/normalize-data-between-0-and-100/
+3. V3 API: https://www.mbta.com/developers/v3-api
+4. Leaflet for R: https://rstudio.github.io/leaflet/
+5. Censusviz: https://github.com/rporta23/censusviz
 
