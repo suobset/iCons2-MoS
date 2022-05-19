@@ -4,7 +4,11 @@
 
 #### Final Website: https://suobset.github.io/iCons/iCons2-MoS/index.html
 
+#### Research Paper: https://github.com/suobset/iCons/blob/main/iCons2-MoS/assets/I2E%20-%20Final%20Report.pdf
+
 #### Final Website Repository (code for website + links to final written report and video): https://github.com/suobset/iCons/tree/main/iCons2-MoS
+
+Other iCons Projects done by me: https://suobset.github.io/iCons
 
 ### Team Members
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/IMG_7096.jpg"></img>
