@@ -8,8 +8,6 @@
 
 #### Final Website Repository (code for website + links to final written report and video): https://github.com/suobset/iCons/tree/main/iCons2-MoS
 
-Other iCons Projects done by me: https://suobset.github.io/iCons
-
 Future Improvement 1: Add census data to see trends using <a href="https://github.com/rporta23/censusviz">Censusviz</a>: https://suobset.github.io/iCons/iCons2-MoS/demographic.html
 
 ### Team Members
