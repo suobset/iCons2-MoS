@@ -8,13 +8,11 @@
 
 #### Final Website Repository (code for website + links to final written report and video): https://github.com/suobset/iCons/tree/main/iCons2-MoS
 
-Future Improvement 1: Add census data to see trends using <a href="https://github.com/rporta23/censusviz">Censusviz</a>: https://suobset.github.io/iCons/iCons2-MoS/demographic.html
-
 ### Team Members
+
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/IMG_7096.jpg"></img>
 
 Kushagra Srivastava, Jack Minella, Gabrielle Walczak, Cleo Hein, and Yi Ding 
-
 
 ---
 
@@ -74,5 +72,3 @@ Added some Jargon R as well.
 2. Normalization of Data: https://www.statology.org/normalize-data-between-0-and-100/
 3. V3 API: https://www.mbta.com/developers/v3-api
 4. Leaflet for R: https://rstudio.github.io/leaflet/
-5. Censusviz: https://github.com/rporta23/censusviz
-
