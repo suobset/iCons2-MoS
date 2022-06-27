@@ -8,6 +8,9 @@
 
 #### Final Website Repository (code for website + links to final written report and video): https://github.com/suobset/iCons/tree/main/iCons2-MoS
 
+* Map Created on R and GIS by Kushagra Srivastava
+* Website and Documentation by Kushagra Srivastava and Yi Ding
+
 ### Team Members
 
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/IMG_7096.jpg"></img>
