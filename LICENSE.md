@@ -1,6 +1,7 @@
   Mapping Transit Accessibility in Boston | an interactive map created to showcase some research findings
 
   Copyright (C) 2022  Kushagra Srivastava, Yi Ding
+  
   Other Contributors: Cleo Hein, Gabrielle Walczak, Jack Minella
 
   This program is free software: you can redistribute it and/or modify
