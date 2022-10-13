@@ -12,7 +12,7 @@
 
 <img src="https://raw.githubusercontent.com/suobset/iCons2-MoS/main/data/RepoAssets/IMG_7096.jpg"></img>
 
-Kushagra Srivastava, Jack Minella, Gabrielle Walczak, Cleo Hein, and Yi Ding 
+Kushagra Srivastava<a href="https://orcid.org/0000-0003-0656-5478"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, Jack Minella, Gabrielle Walczak, Cleo Hein, and Yi Ding 
 
 ---
 
